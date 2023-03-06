@@ -1,0 +1,93 @@
+.first-flex{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    background-color: aqua;
+}
+.first-flex div {
+    width: 50%;
+    background-color: darkgray;
+    margin: 10px;
+}
+#firsta {
+margin-right: 0px;
+}
+.second-flex{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    background-color: aqua;
+}
+.second-flex div {
+    width: 50%;
+    background-color: darkgray;
+    margin: 15px;
+    
+}
+#seconda {
+    margin-right: 0px;
+}
+#secondb {
+    margin-right: 0px;
+}
+.third-flex{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    background-color: aqua;
+    
+}
+.third-flex div {
+    background-color: darkgray;
+   margin: 12px;
+   border: 2px solid black;
+}
+#thirda {
+    width: 50%;
+    
+}
+#thirdb {
+    width: 25%;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+}
+#thirdc {
+    width: 25%;
+    
+}
+.fourth-flex{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    background-color: aqua;
+    
+}
+.fourth-flex div {
+    width: 50%;
+    background-color: darkgray;
+   margin: 12px;
+   border: 2px solid black;
+}
+.fourth2-flex{
+display: flex;
+flex-direction: row;
+height: 50px;
+background-color: aqua;
+}
+#fourtha{
+    margin-right: 0px;
+} 
+#fourthb{
+    margin-right: 0px;
+} 
+#fourthc {
+    margin-right: 0px;
+}
+.fourth2-flex div {
+    width: 100%;
+    background-color: darkgray;
+    margin: 12px;
+    margin-top: 0px;
+    border: 2px solid black;
+}
