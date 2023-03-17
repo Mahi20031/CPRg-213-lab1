@@ -1,0 +1,38 @@
+header .banner img{
+    width: 120px;
+}
+
+.home-page header,.banner {
+    display: flex;
+    flex-direction: row;
+}
+.contact-page header .banner{
+    display: flex;
+    flex-direction: row;
+}
+.contact-page #name #email #message{
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+
+}
+.form{
+    text-align: center;
+}
+.color-box{    
+    background-color: aqua;
+}
+table{
+    border: solid black 1px;
+}
+footer{
+    position: fixed;
+    bottom: 0%;
+    
+    text-align: center;
+    background-color: black;
+    width: 100%;
+}
+footer a,footer {
+    color: aqua;
+}
